@@ -1,0 +1,46 @@
+p{
+    width: 625px;
+    height: 350px;
+}
+body {
+    font-family: 'Goldman';
+    
+    
+}
+
+.Kittyyy {
+    text-align: left;
+    font-size: 24px;
+    height: auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    background-color: rgb(162, 162, 162);
+}
+img{
+    height: 350px;
+    width: 625px;
+}
+.Table {
+    text-align: left;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: left;
+    background-color: rgb(162, 162, 162);
+}
+a{
+    color: #000000;
+}
+table {
+    width: 625px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 15px solid rgb(121, 121, 121);
+    padding: 8px;
+    text-align: left;
+}
+th, td{
+    background-color: #f2f2f2;
+}
